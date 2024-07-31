@@ -12,3 +12,4 @@
   <img src="https://github.com/Magallanes-at-UTDT/DataViz_shortTalk_1/raw/main/mapVizPic.png" alt="Click me!" />
 </a>
 
+# NEXT: <a href="https://github.com/Magallanes-at-UTDT/DataViz_shortTalk_2" target="_blank">Exercise #2</a>
